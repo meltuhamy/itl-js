@@ -1,4 +1,4 @@
-# itl-js
+# itl-js [![Build Status](https://travis-ci.org/meltuhamy/itl-js.svg?branch=master)](https://travis-ci.org/meltuhamy/itl-js)
 ITL Port in JS
 
 **Note: This project is a work in progress**
