@@ -1,0 +1,25 @@
+{
+  "name": "itl-js",
+  "version": "1.0.0",
+  "description": "ITL Port in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meltuhamy/itl-js.git"
+  },
+  "keywords": [
+    "itl",
+    "prayertimes",
+    "hijri",
+    "salah"
+  ],
+  "author": "Mohamed Eltuhamy",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/meltuhamy/itl-js/issues"
+  },
+  "homepage": "https://github.com/meltuhamy/itl-js#readme"
+}
