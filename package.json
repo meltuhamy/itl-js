@@ -4,7 +4,7 @@
   "description": "ITL Port in JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "webpack && karma start --single-run --browsers PhantomJS"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,19 @@
   "bugs": {
     "url": "https://github.com/meltuhamy/itl-js/issues"
   },
-  "homepage": "https://github.com/meltuhamy/itl-js#readme"
+  "homepage": "https://github.com/meltuhamy/itl-js#readme",
+  "devDependencies": {
+    "@types/jasmine": "^2.5.37",
+    "jasmine-core": "^2.5.2",
+    "json-loader": "^0.5.4",
+    "karma": "^1.3.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "karma-typescript-preprocessor": "^0.3.0",
+    "karma-webpack": "^1.8.0",
+    "ts-loader": "^1.0.0",
+    "typescript": "^2.0.7",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {}
 }
