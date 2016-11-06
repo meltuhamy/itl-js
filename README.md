@@ -1,4 +1,6 @@
-# itl-js [![Build Status](https://travis-ci.org/meltuhamy/ITL.svg?branch=master)](https://travis-ci.org/meltuhamy/ITL)
+# itl-js
 ITL Port in JS
 
-This is an implementation of ITL in JavaScript (TypeScript). https://github.com/arabeyes-org/ITL 
+**Note: This project is a work in progress**
+
+This is an implementation of Islamic Tools and Libraries (ITL) in JavaScript (TypeScript). For more information, visit https://github.com/arabeyes-org/ITL
